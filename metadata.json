@@ -1,0 +1,8 @@
+{
+  "name": "Songbird AI & Suno API Hub",
+  "description": "Generate music, vocals, and lyrics using Songbird AI and unofficial Suno API endpoints.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
